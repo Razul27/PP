@@ -13,5 +13,7 @@ public static void main(String[] args) {
 	i.ramSize();
 	ExternalStorage e=new ExternalStorage();
 	e.size();
+	System.out.println();
+	System.out.println();
 }
 }
